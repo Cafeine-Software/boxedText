@@ -36,7 +36,7 @@ const boxedText = boxedTest("BAR",BOX_STYLE.HEAVY,false)
 
 ## License
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/320px-CC_BY-SA_icon.svg.png" width="150px"/>](https://creativecommons.org/licenses/by-sa/4.0/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/320px-CC_BY-SA_icon.svg.png" width="150px"/>
 
 ## Contact
 
