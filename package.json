@@ -1,0 +1,20 @@
+{
+  "name": "boxed-text",
+  "version": "1.0.0",
+  "description": "Display a text in an ascii box",
+  "homepage": "https://github.com/Cafeine-Software/boxedText#readme",
+  "bugs": {
+    "url": "https://github.com/Cafeine-Software/boxedText/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cafeine-Software/boxedText.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
