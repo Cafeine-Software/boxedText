@@ -13,9 +13,9 @@ Display a text in an ascii box
 </div>
 
 ## Description
-Error chains with ***cause*** look cool on paper, but unpacking them in the console is a nightmare. errorUnstack takes your nested errors and transforms them into a formatted, readable, and structured display. File positions, clear messages, attached data, colors... everything you need to debug without the headache.
+A lightweight utility to wrap text in customizable Unicode boxes. It automatically centers the text and can output directly to the console or return a formatted multi-line string.
 
-<img src="https://raw.githubusercontent.com/Cafeine-Software/errorUnstack/main/media/mainScreen.png" width="500">
+<img src="https://raw.githubusercontent.com/Cafeine-Software/boxedText/main/media/demo.png" width="350">
 
 ## Installation
 ```bash

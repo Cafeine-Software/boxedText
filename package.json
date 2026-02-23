@@ -1,5 +1,5 @@
 {
-  "name": "boxed-text",
+  "name": "@cafeine-software/boxed-text",
   "version": "1.0.0",
   "description": "Display a text in an ascii box",
   "homepage": "https://github.com/Cafeine-Software/boxedText#readme",
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/Cafeine-Software/boxedText.git"
   },
-  "license": "ISC",
-  "author": "",
+  "author": "Quentin Lamamy <contact@quentin-lamamy.fr>",
+  "license": "CC BY-SA 4.0",
   "type": "module",
   "main": "index.js",
   "scripts": {
