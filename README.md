@@ -9,7 +9,7 @@
 
 Display a text in an ascii box
 
-[Installation](#installation) • [License](#license) • [Contact](#contact) • [Support](#support)
+[Installation](#installation) • [Usage](#usage) • [Documentation](#documentation) • [License](#license) • [Contact](#contact) • [Support](#support)
 </div>
 
 ## Description
@@ -27,12 +27,25 @@ npm i @cafeine-software/boxed-text
 ```javascript
 import { boxedText ,BOX_STYLE} from "./index.js";
 
-// Display the boxed text
-boxedText(style,BOX_STYLE[style]);
+// Display the boxed text with default style BOX_STYLE.LIGHT
+boxedText(style);
 
 // Get the boxed text as a string
 const boxedText = boxedTest("BAR",BOX_STYLE.HEAVY,false)
 ```
+
+## Documentation
+
+Available style are :
+
+* LIGHT
+* HEAVY
+* DOUBLE
+* ROUNDED
+* VERTICAL_LIGHT_&_HEAVY_TOP
+* VERTICAL_HEAVY_&__LIGHT_TOP
+* VERTICAL_LIGHT_&_DOUBLE_TOP
+* VERTICAL_DOUBLE_&_LIGHT_TOP
 
 ## License
 
