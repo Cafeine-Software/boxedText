@@ -9,7 +9,7 @@
 
 Display a text in an ascii box
 
-[Installation](#installation) • [Usage](#usage) •  [Documentation](#documentation) • [License](#license) • [Contact](#contact) • [Support](#support)
+[Installation](#installation) • [License](#license) • [Contact](#contact) • [Support](#support)
 </div>
 
 ## Description
@@ -24,7 +24,6 @@ npm i @cafeine-software/boxed-text
 
 ## Usage
 
-### Minimalist
 ```javascript
 import { boxedText ,BOX_STYLE} from "./index.js";
 
