@@ -19,5 +19,13 @@
   },
   "dependencies": {
     "@cafeine-software/padcenter": "^1.0.4"
-  }
+  },
+  "keywords": [
+    "ascii",
+    "box",
+    "boxed",
+    "text",
+    "terminal",
+    "cli"
+  ]
 }
