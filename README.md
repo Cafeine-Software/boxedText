@@ -25,7 +25,7 @@ npm i @cafeine-software/boxed-text
 ## Usage
 
 ```javascript
-import { boxedText ,BOX_STYLE} from "./index.js";
+import { boxedText ,BOX_STYLE} from "@cafeine-software/boxed-text";
 
 // Display the boxed text with default style BOX_STYLE.LIGHT
 boxedText(style);

@@ -1,6 +1,6 @@
 {
   "name": "@cafeine-software/boxed-text",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Display a text in an ascii box",
   "homepage": "https://github.com/Cafeine-Software/boxedText#readme",
   "bugs": {
